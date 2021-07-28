@@ -1,0 +1,42 @@
+body{
+    background-size:cover;
+}
+
+#start{
+    font-size:18px;
+}
+
+#status , #cellphone_found{
+    font-size:18px;
+}
+
+#start , #cellphone_found , #start{
+    font-size:10px;
+    background-color: lightcoral;
+}
+
+.footer{
+    position:fixed;
+    color:beige;
+    bottom:0;
+    width:100%;
+    background-color:rgb(206, 190, 190);
+    line-height:3;
+    text-align:center;
+}
+
+canvas{
+    border:2px solid white;
+    border-radius:10px;
+    margin-top:130px;
+    box-shadow: 5px 5px 5px rgb(235, 191, 211);
+}
+
+.heading{
+    background-color: lightpink;
+    color:lightyellow;
+}
+
+.ObjectName{
+    color:pink;
+}
